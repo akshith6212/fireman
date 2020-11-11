@@ -1,1 +1,1 @@
-# daily changes are under this repository for now.
+# Daily changes are under this repository for now.
