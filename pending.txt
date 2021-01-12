@@ -1,0 +1,6 @@
+function to segregate the rules into categories // permit/deny tcp/udp etc..
+
+create the vector of permit and deny bdd's for inconsitency rules and search for any inconsistencies
+
+redundancy checks
+
